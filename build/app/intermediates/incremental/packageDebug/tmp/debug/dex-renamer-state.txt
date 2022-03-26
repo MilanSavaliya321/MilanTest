@@ -1,0 +1,4 @@
+#Sat Mar 26 19:05:34 IST 2022
+base.0=/Users/milan/Desktop/test_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
